@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "name": "Aditya Raj Kumawat",
+      "email": "arkumawat78@gmail.com",
+      "phone": "9332974234",
+      "rollno": "2020BTechCSE005"
+    },
+    {
+      "name" : "Namish Khandelwal",
+      "email" : "namishkhandelwal1@gmail.com",
+      "phone" : "7877065851",
+      "Roll" : "2020btechcse053"
+    },
+    {
+      "email":"shubhamsharma31031991@gmail.com",
+      "name":"Shubham Sharma",
+      "phone":"9332978888",
+      "rollno":"2020BTechCSE072"
+    },
+    {
+      "name":"carry",
+      "email":"lalallaaaaa@gmail.com",
+      "phone":"4945132",
+      "rollno":"2020BTechCSE075"},
+    {
+      "name" : "Bhavishi Bansal",
+      "email" : "bansalbhavishi2003@gmail.com",
+      "phone" : "7742356191",
+      "Roll" : "2020btechcse019"
+    },
+  ]
+}
